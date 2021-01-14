@@ -1,8 +1,8 @@
 # Forged-Workshop-2
 
-### Basic Requirements 
+### Comparison Operators
 
-#### Comparison Operators (5 points each)
+#### Basic Practice (5 points each)
 
 1. Type the two boolean values -- `true` and `false` -- into your console.
 
@@ -56,7 +56,9 @@
    parameter and returns `true` if that password is *long enough* -- you get to
    decide what constitutes *long enough*.
 
-#### Conditionals: `if` (5 points each)
+### Conditionals: `if`
+
+#### Basic Practice (5 points each)
 
 1. Write a function `bouncer` that accepts a person's name and age as arguments,
    and returns either "Go home, NAME.", or "Welcome, NAME!" (where NAME is the
@@ -119,7 +121,9 @@
      - "You guessed my number!" if the argument matches the random number.
      - "Nope! That wasn't it!" if the argument did not match the random number.
 
-#### Logical Operators (5 points each)
+### Logical Operators
+
+#### Basic Practice (5 points each)
 
 1. Is the `!` operator a *unary* operator, or *binary* operator?
 
@@ -140,7 +144,9 @@
    5 < 5 || 75 < 74
    ```
 
-#### Conditionals: `else if` & `else` (5 points each)
+### Conditionals: `else if` & `else`
+
+#### Basic Practice (5 points each)
 
 1. This guy named "Joe" keeps blacking out at the bar that your function,
    `bouncer` (from the previous module), is in charge of; thus, management has
@@ -171,7 +177,7 @@
 3. Modify the `scoreToGrade` function so that it returns `'INVALID SCORE'` if
    the score is greater than `100` or less than `0`.
 
-### More Practice (10 points each)
+#### More Practice (10 points each)
 
 1. Think of at least three activities that you enjoy doing outdoors and the
    range of temperatures and weather patterns (*e.g* sunny, windy, snowy, rainy,
@@ -200,7 +206,7 @@
    scores of 98-100/90-92 respectively. Apply the same logic for all other
    letter grades.
 
-### Advanced (15 points each)
+#### Advanced (15 points each)
 
 1. The bar that employs our `bouncer` function has decided to do live music on
    Friday and Saturday nights, and will be admitting those that are over 18 to
@@ -233,7 +239,9 @@
      + Write a function `or` that works like `||`, but only uses `!` and `&&`.
      + Write a function `and` that works like `&&`, but only uses `!` and `||`.
 
-#### Variables (5 points each)
+### Variables
+
+#### Basic Practice (5 points each)
 
 1. Fix each of the following variable declarations in a console -- some are
    syntactically invalid, some are disobey style guidelines, and some are just
